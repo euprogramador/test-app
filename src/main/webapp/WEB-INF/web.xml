@@ -16,7 +16,7 @@
     </security-constraint>
 
     <login-config>
-        <auth-method>OIDC</auth-method>
+        <auth-method>KEYCLOAK</auth-method>
     </login-config>
 
     <security-role>
